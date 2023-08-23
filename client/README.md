@@ -1,14 +1,21 @@
 # client
 
 ## Project setup
+
+See Prerequisites in Craft-Demo (parent directory) README.md.
+
+Install node_modules:
+
 ```
 npm install
 ```
 
 ### Compiles and hot-reloads for development
+
 ```
-npm run serve
+npm run start
 ```
+**NOTE: this is to run client individually. Reference Craft-Demo (parent directory) README.md to run client and backend simultaneously.
 
 ### Compiles and minifies for production
 ```

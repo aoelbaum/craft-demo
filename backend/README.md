@@ -56,11 +56,22 @@ Be prepared to have a discussion about your implementation. Here are some exampl
 
 We recommend spending up to four hours on this assignment. If you don't get every piece you hoped completed done in the timeframe, that's alright! We'll be having an hour long discussion on your thought processes and where you might spend more time, and that discussion is a key part of our evaluation!
 
-## Usage
+## Project Setup
+See Prerequisites in Craft-Demo (parent directory) README.md.
+
+Install node_modules:
+
+```
+npm install
+```
 
 ### Run in Development
 
+After installation, to run server:
+
 ```
-$ npm install
-$ npm run dev
+npm run start
 ```
+
+**NOTE: this is to run backend individually. Reference Craft-Demo (parent directory) README.md to run client and backend simultaneously.
+

@@ -73,5 +73,5 @@ After installation, to run server:
 npm run start
 ```
 
-**NOTE: this is to run backend individually. Reference Craft-Demo (parent directory) README.md to run client and backend simultaneously.
+**NOTE: this is to run backend individually. Reference Craft-Demo (parent directory) README.md to run client and backend simultaneously.**
 

@@ -15,7 +15,7 @@ npm install
 ```
 npm run start
 ```
-**NOTE: this is to run client individually. Reference Craft-Demo (parent directory) README.md to run client and backend simultaneously.
+**NOTE: this is to run client individually. Reference Craft-Demo (parent directory) README.md to run client and backend simultaneously.**
 
 ### Compiles and minifies for production
 ```
